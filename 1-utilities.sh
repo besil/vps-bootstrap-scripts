@@ -1,1 +1,1 @@
-sudo apt-get install stress -y
+sudo apt-get install stress-ng -y

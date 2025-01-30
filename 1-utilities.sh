@@ -1,1 +1,1 @@
-sudo apt-get install stress
+sudo apt-get install stress -y

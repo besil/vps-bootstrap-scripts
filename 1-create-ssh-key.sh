@@ -1,0 +1,1 @@
+ssh-keygen -N "" -f ~/.ssh/id_rsa -q
